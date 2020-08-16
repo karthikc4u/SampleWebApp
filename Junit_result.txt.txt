@@ -1,0 +1,12 @@
+Testsuite: junit/TestCalculator.class
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec
+
+	Caused an ERROR
+junit/TestCalculator.class
+java.lang.ClassNotFoundException: junit/TestCalculator.class
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:427)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
